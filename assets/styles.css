@@ -64,3 +64,14 @@ footer{border-top:1px solid var(--line);padding:25px 0 40px;color:var(--muted);f
   .floating-contact{right:12px;bottom:12px}
   .lightbox-prev{left:8px}.lightbox-next{right:8px}
 }
+
+/* Canonical SOVA_MIRA instruction: content is preserved, only presentation changes */
+.canonical-instruction{overflow-wrap:anywhere}
+.canonical-instruction details{border:1px solid var(--line);border-radius:14px;padding:13px 15px;background:#fff}
+.canonical-instruction details+div{margin-top:20px}
+.canonical-instruction summary{list-style:none}
+.canonical-instruction summary::-webkit-details-marker{display:none}
+.canonical-instruction code{overflow-wrap:anywhere}
+.canonical-instruction a{overflow-wrap:anywhere}
+.canonical-instruction h2,.canonical-instruction h3{scroll-margin-top:90px}
+.canonical-instruction details details{margin:12px 0;background:var(--bg)}
