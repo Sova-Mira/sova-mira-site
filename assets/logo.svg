@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="SOVA_MIRA">
+<rect width="120" height="120" rx="28" fill="#1d1d1b"/>
+<path d="M30 41 43 22l10 17a34 34 0 0 1 14 0l10-17 13 19-7 9a34 34 0 1 1-46 0z" fill="#f6f3ed"/>
+<circle cx="47" cy="60" r="11" fill="#1d1d1b"/>
+<circle cx="73" cy="60" r="11" fill="#1d1d1b"/>
+<circle cx="47" cy="60" r="4" fill="#f6f3ed"/>
+<circle cx="73" cy="60" r="4" fill="#f6f3ed"/>
+<path d="M60 66 52 75h16z" fill="#1d1d1b"/>
+</svg>
